@@ -1,10 +1,3 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntthach-hub&show_icons=true&locale=en&layout=compact" alt="ntthach-hub" /></p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ntthach&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ntthach&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntthach&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ntthach&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntthach-hub&show_icons=true&locale=en" alt="ntthach-hub" /></p>
